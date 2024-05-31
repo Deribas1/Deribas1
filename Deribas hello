@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main(void)
+{
+printf(«Hello, I`m Deribas!\n»);
+return 0;
+}
